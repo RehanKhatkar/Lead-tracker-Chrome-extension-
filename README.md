@@ -16,8 +16,7 @@ A lightweight Chrome extension to track and save useful URLs — either manually
 
 ## 🖼️ Demo
 
-👉 [Click here to watch the demo](assets/demo.mp4)
-
+👉 [Click here to watch the demo](demo.mp4)
 ---
 
 ## 🛠️ Built With
