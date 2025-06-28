@@ -16,7 +16,7 @@ A lightweight Chrome extension to track and save useful URLs — either manually
 
 ## 🖼️ Demo
 
-![Lead Tracker Demo](demo.gif) <!-- You can add a screen recording or image here -->
+👉 [Click here to watch the demo](assets/demo.mp4)
 
 ---
 
